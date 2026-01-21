@@ -13,3 +13,5 @@
 <img width="791" height="252" alt="image" src="https://github.com/user-attachments/assets/79466a5e-f308-4573-bd81-08f4abed97e4" />
 Параметры системной шины:
 <img width="790" height="108" alt="image" src="https://github.com/user-attachments/assets/0ee1d5ec-73c9-431c-96d9-faac594227c7" />
+
+Модули контроллера UART и дешифраторов импортируются из проекта serial_hex_calculator
