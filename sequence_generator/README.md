@@ -3,6 +3,4 @@
 
 Индивидуальный вариант:
 
-X 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
-
-Y 2  9  7  A  2  3  C 9 8 0 A 2 4 1 4 7
+<img width="608" height="36" alt="image" src="https://github.com/user-attachments/assets/8452c707-f742-4f94-90d9-98e547bf6eb9" />
